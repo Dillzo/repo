@@ -2,7 +2,7 @@
 ### 前端
 #### html
 #### CSS
-#### javascript
+#### [[javascript]]
 ## 工作
 ### 修购
 ### 排课
